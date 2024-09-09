@@ -16,12 +16,22 @@ Image Decryption:
 
 Example:
 Input
-![image](https://github.com/user-attachments/assets/2015988f-e753-4ca3-98d4-ac28b4088ffc)
+![Screenshot 2024-09-09 175135](https://github.com/user-attachments/assets/3857aa6a-e8e8-4f46-bf29-3a3516855a96)
+
+
 
 Encrypted Image
-![image](https://github.com/user-attachments/assets/457620de-d146-422e-8a3b-0ae521f41ace)
+![Screenshot 2024-09-09 175213](https://github.com/user-attachments/assets/d64e510e-0c1f-49bf-89dc-cb4da0e41d09)
+
+
+
+
+
 
 Decrypted Output Image
-![image](https://github.com/user-attachments/assets/8b047bc2-3b30-413e-a512-cfb78f4330e1)
+![Screenshot 2024-09-09 175540](https://github.com/user-attachments/assets/896f872e-61a1-4006-9f6b-2a009d21e31c)
+
+
+
 
 Root square error for decryption: 4.364406730823853
